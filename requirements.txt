@@ -9,6 +9,6 @@ numpy
 omegaconf
 Pillow
 tqdm
-pyav
+# pyav
 matplotlib
 accelerate

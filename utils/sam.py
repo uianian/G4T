@@ -5,8 +5,10 @@ import torch
 import torch.nn.functional as F
 # from models import torch_device
 from transformers import SamModel, SamProcessor
-import vis
-import sam_utils
+# import vis
+from . import vis
+# import sam_utils
+from . import sam_utils
 import cv2
 from scipy import ndimage
 import os
